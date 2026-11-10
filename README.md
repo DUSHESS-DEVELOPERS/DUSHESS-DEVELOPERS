@@ -12,7 +12,17 @@
 
 ---
 
-### 🌐 About DUSHESS-DEV (English)
+### 🇷🇺 О проекте DUSHESS-DEV
+
+**DUSHESS-DEV** — это личная платформа и репозиторий безопасного программного обеспечения. Здесь собраны программы, скрипты, утилиты и файлы от автора проекта и проверенных сторонних разработчиков.
+
+* 🛡️ **Строгая ручная проверка:** Каждый файл, скрипт и сборка проходят личное тестирование перед публикацией.
+* 💻 **Безопасность ПК и ОС:** Весь софт гарантированно безопасен для установки и не содержит вредоносного ПО или скрытых угроз.
+* 🚀 **Единая экосистема:** Удобная связка сервисов, облачного хранилища и единого аккаунта для пользователей и разработчиков.
+
+<details>
+<summary><b>🌐 About DUSHESS-DEV (English) — Click to expand</b></summary>
+<br>
 
 **DUSHESS-DEV** is a personal platform and secure repository of verified software, scripts, utilities, and applications created by me and trusted third-party developers. 
 
@@ -20,15 +30,7 @@
 * 💻 **PC Safety First:** All software on the platform is guaranteed to be safe for your Windows/OS environment without hidden threats.
 * 🚀 **Unified Ecosystem:** Seamless integration of tools, cloud storage, and developer APIs under a single account.
 
----
-
-### 🇷🇺 О проекте DUSHESS-DEV (Русский)
-
-**DUSHESS-DEV** — это личная платформа и репозиторий безопасного программного обеспечения. Здесь собраны программы, скрипты, утилиты и файлы от автора проекта и проверенных сторонних разработчиков.
-
-* 🛡️ **Строгая ручная проверка:** Каждый файл, скрипт и сборка проходят личное тестирование перед публикацией.
-* 💻 **Безопасность ПК и ОС:** Весь софт гарантированно безопасен для установки и не содержит вредоносного ПО или скрытых угроз.
-* 🚀 **Единая экосистема:** Удобная связка сервисов, облачного хранилища и единого аккаунта для пользователей и разработчиков.
+</details>
 
 <!-- ---
 
@@ -42,8 +44,8 @@
 | **DUSHESS ID** | [id.dushess-dev.ru](https://dushess-dev.ru) | Единый аккаунт и инструменты разработчика |
 | **API** | [api.dushess-dev.ru](https://dushess-dev.ru) | Программный шлюз и документация |
 | **Blog** | [blog.dushess-dev.ru](https://dushess-dev.ru) | Статьи, обзоры и новости разработки |
-
---- -->
+-->
+---
 
 <div align="center">
   <sub>📍 Based in Novosibirsk, Russia • © 2026 DUSHESS-DEVELOPER / Никифоров А.А.</sub>
